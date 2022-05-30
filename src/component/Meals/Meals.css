@@ -1,0 +1,13 @@
+.grid{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+
+.menu{
+    color: aqua;
+    background-color: goldenrod;
+    margin: 20px;
+    padding: 30px;
+  
+}
